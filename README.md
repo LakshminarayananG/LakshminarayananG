@@ -3,7 +3,6 @@
 
 **Some things about me:**
 - 🔭 I’m currently working on :Software Test Automation and passionate about Automation, Data Analytics & Internet of things
-- 🌱 I wish to be : An SDET 
 - 🤔 I’m willing to help with : Automation challenges 
 - 💬 Ask me about **Web, Mobile & API Automation & Framework** 
 - 🌍 I am mostly active on **LinkedIn & Twitter**
