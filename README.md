@@ -3,7 +3,6 @@
 
 **Some things about me:**
 - 🔭 I’m currently working on :Software Test Automation and passionate about Automation, Data Analytics & Internet of things
-- 🤔 I’m willing to help with : Automation challenges 
 - 💬 Ask me about **Web, Mobile & API Automation & Framework** 
 - 🌍 I am mostly active on **LinkedIn & Twitter**
 - 💬 I have worked on building E2E Automation for Web & Mobile Applications
@@ -11,3 +10,10 @@
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LakshminarayananG) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lakshminarayanang) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lakshnarayanan7/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Lakshnarayanan7)  &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@lakshnarayanan7)
+
+### GitHub Stats:
+[![Lakshmi's github stats](https://github-readme-stats.vercel.app/api?username=LakshminarayananG)](https://github.com/LakshminarayananG/github-readme-stats)
+
+
+### Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshminarayananG&layout=compact&hide=html)](https://github.com/LakshminarayananG/github-readme-stats)
