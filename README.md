@@ -28,7 +28,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lakshminarayanang)
 
 <br/>
-<br/>
 
 <a href="https://github.com/LakshminarayananG">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LakshminarayananG&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lakshmi's github stats" />
