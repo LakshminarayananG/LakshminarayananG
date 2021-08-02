@@ -21,7 +21,7 @@
 <a href="https://medium.com/@lakshnarayanan7">
   <img align="left" alt="Lakshmi's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
-<a href="https://instagram.com/@lakshnarayanan7">
+<a href="https://instagram.com/lakshnarayanan7">
   <img align="left" alt="Lakshmi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
 
